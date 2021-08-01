@@ -35,6 +35,7 @@
     <label><input type="checkbox" name="personality" checked> Loving</label>
     <label><input type="checkbox" name="personality"> Lazy</label>
     <label><input type="checkbox" name="personality"> Energetic</label><br>
+    
     <input type="text" placeholder="cat photo URL" required>
     <button type="submit">Submit</button>
   </form>
